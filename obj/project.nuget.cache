@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "WysYVbs13rk=",
+  "success": true,
+  "projectFilePath": "D:\\Repositories\\Blasphemous.CombatImprovements\\Blasphemous.CombatImprovements.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yentl\\.nuget\\packages\\bepinex.baselib\\5.4.20\\bepinex.baselib.5.4.20.nupkg.sha512",
+    "C:\\Users\\Yentl\\.nuget\\packages\\bepinex.core\\5.4.21\\bepinex.core.5.4.21.nupkg.sha512",
+    "C:\\Users\\Yentl\\.nuget\\packages\\blasphemous.moddingapi\\2.1.2\\blasphemous.moddingapi.2.1.2.nupkg.sha512",
+    "C:\\Users\\Yentl\\.nuget\\packages\\blasphemous.moddingreferences\\4.0.67\\blasphemous.moddingreferences.4.0.67.nupkg.sha512",
+    "C:\\Users\\Yentl\\.nuget\\packages\\harmonyx\\2.7.0\\harmonyx.2.7.0.nupkg.sha512",
+    "C:\\Users\\Yentl\\.nuget\\packages\\mono.cecil\\0.10.4\\mono.cecil.0.10.4.nupkg.sha512",
+    "C:\\Users\\Yentl\\.nuget\\packages\\monomod.runtimedetour\\21.12.13.1\\monomod.runtimedetour.21.12.13.1.nupkg.sha512",
+    "C:\\Users\\Yentl\\.nuget\\packages\\monomod.utils\\21.12.13.1\\monomod.utils.21.12.13.1.nupkg.sha512",
+    "C:\\Users\\Yentl\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Yentl\\.nuget\\packages\\unityengine.modules\\2017.4.40\\unityengine.modules.2017.4.40.nupkg.sha512"
+  ],
+  "logs": []
+}
